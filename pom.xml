@@ -14,7 +14,7 @@
     </modules>
 
     <properties>
-        <spring.boot.version>1.5.10.RELEASE</spring.boot.version>
+        <spring.boot.version>2.5.12</spring.boot.version>
 
         <java.source>1.8</java.source>
         <java.target>1.8</java.target>
